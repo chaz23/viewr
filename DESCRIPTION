@@ -1,0 +1,13 @@
+Package: viewr
+Type: Package
+Title: Invoke the Data Viewer on Highlighted Text using a Keyboard Shortcut
+Version: 0.1.0
+Author: Charith Wijewardena
+Maintainer: Charith Wijewardena <charithw01@gmail.com>
+Description: This package provides the user with the ability to invoke the View function on highlighted text using a keyboard shortcut. The highlighted text can be the name of an object or a sequence of piped commands.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rstudioapi
+RoxygenNote: 7.1.2

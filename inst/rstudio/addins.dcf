@@ -1,0 +1,4 @@
+Name: Invoke Viewer
+Description: Invokes data viewer on highlighted text.
+Binding: invoke_viewer
+Interactive: false
